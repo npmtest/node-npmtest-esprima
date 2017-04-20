@@ -1,4 +1,7 @@
-# test coverage for  [esprima (v3.1.3)](http://esprima.org)  [![npm package](https://img.shields.io/npm/v/npmtest-esprima.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-esprima) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-esprima.svg)](https://travis-ci.org/npmtest/node-npmtest-esprima)
+# npmtest-esprima
+
+#### basic test coverage for  [esprima (v3.1.3)](http://esprima.org)  [![npm package](https://img.shields.io/npm/v/npmtest-esprima.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-esprima) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-esprima.svg)](https://travis-ci.org/npmtest/node-npmtest-esprima)
+
 #### ECMAScript parsing infrastructure for multipurpose analysis
 
 [![NPM](https://nodei.co/npm/esprima.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/esprima)
